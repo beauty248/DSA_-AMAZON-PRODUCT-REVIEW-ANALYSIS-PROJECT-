@@ -1,5 +1,5 @@
 # DSA-AMAZON-PRODUCT-REVIEW-ANALYSIS-PROJECT-
-## This is where i started my portfolio building while taking my Data Analysis class project with the Incubator Hub. For the pass two weeks on this project it has shown my ability to identify, read and solve questions as a Data Analysis.
+## This is where i started my portfolio building while taking my Data Analysis class project with the Incubator Hub. For the pass two weeks on this project it has shown my ability how to identify, read and solve questions as a Data Analysis.
 ### Below is the breakedown of my Excel project on Amazon product review analysis.
 
 # KEY INSIGHS FROM AMAZON PRODUCT REVIEW ANALYSIS.
