@@ -40,4 +40,14 @@ Products ratings are fairly well distributed across the 1351 products reflecting
 The data reveals that discount strategies are deeply tied to customer perception and sale potential.
 Top-rated products tend to also recieve high reviews, confirming a strong link between product quality and customer engagement.
 Pricing plays a vital role, particularly for high-value categories like electronics, where strategic discounting can drive both  volume and visibility.
-    
+
+
+
+
+
+# DATA CLEANING PROCESS:
+The cleaning of my Amazon Project Review Analysis started with this breakdown steps,
+Firstly, i study the data file after which i removed all unnecessary data that are not needed on the data file.
+Scondly, i removed all dulicated data on the sheet. 
+I started creating the necessary tables by answering the quesions: table such as 50% or more, Total potential revenue, Price range bucket, Fewer than 1000, %Discount grouping and Top 5 rating.
+With this new created table i was able to solve the questions.
