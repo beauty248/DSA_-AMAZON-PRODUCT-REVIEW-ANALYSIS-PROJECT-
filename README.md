@@ -36,6 +36,10 @@ There is a positive trend with an average rating of 4.1 for products offering si
 ### Rating Overview:
 Products ratings are fairly well distributed across the 1351 products reflecting a wide range  of customers satisfaction levels.
 
+### Amazon Product Review Analysis data cleaning  [https://d.docs.live.net/ebda97803333ibd33/INCUBATOR%20HUN%20EXCEL%20PROJECT%20SOLUTION%5e.xlsx.](download here)
+
+
+
 ## CONCLUSION: 
 The data reveals that discount strategies are deeply tied to customer perception and sale potential.
 Top-rated products tend to also recieve high reviews, confirming a strong link between product quality and customer engagement.
