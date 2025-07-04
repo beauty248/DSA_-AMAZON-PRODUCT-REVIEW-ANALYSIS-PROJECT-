@@ -36,7 +36,7 @@ There is a positive trend with an average rating of 4.1 for products offering si
 ### Rating Overview:
 Products ratings are fairly well distributed across the 1351 products reflecting a wide range  of customers satisfaction levels.
 
-### Amazon Product Review Analysis data cleaning  [https://d.docs.live.net/ebda97803333ibd33/INCUBATOR%20HUN%20EXCEL%20PROJECT%20SOLUTION%5e.xlsx.][C:\Users\DELL\Documents\INCUBATOR PROJECT ASSIGNMENT.pbix](download here)
+### Amazon Product Review Analysis data cleaning [ C:\Users\DELL\Documents\INCUBATOR PROJECT ASSIGNMENT.pbix  ]    (download here)
 
 
 
