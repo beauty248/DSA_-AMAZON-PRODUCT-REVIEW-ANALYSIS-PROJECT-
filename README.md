@@ -1,57 +1,98 @@
-# DSA-AMAZON-PRODUCT-REVIEW-ANALYSIS-PROJECT-
-## This is where i started my portfolio building while taking my Data Analysis class project with the Incubator Hub. For the pass two weeks on this project it has shown my ability how to identify, read and solve questions as a Data Analysis.
-### Below is the breakedown of my Excel project on Amazon product review analysis.
+## 📦 DSA Amazon Product Review Analysis Project
+This project marks the beginning of my data analytics portfolio. I worked on it during my Data Analysis class with **The Incubator Hub,** where we explored real-world datasets using Excel.
 
-# KEY INSIGHS FROM AMAZON PRODUCT REVIEW ANALYSIS.
-### Pricing and Discount Analysis: 
-- On average, products receive a 47% discount across all categories, indicating competitive pricing and frequent promotions.
-- The average actual price of products is 5691 while the average discounted price is 3305. Suggesting an effective discounting strategy that likely drives purchase intented.
-- 608 products (45%) offer  discounts of 50% or more, which is a strong incentive for price-sensitive customers.
-- Computers and Accessories stand out with the highest discount rate of 94% suggesting high markdowns in this category, possibly to drive volume or clear inventory.
- ### Product Distribution and Revenue:
-  - A total of 1351 unique products were analyzed accross various categories.
-  - The potential revenue based on available product data is 1351 units, though further clarification may be needed if this represents total units or a revenue estimate.
-  - Products are mostly priced in the ₹500+range, with:
-     1. 870 products price above ₹500
-     2. 342 products priced between ₹200-₹500.
-     3. 159 products below ₹200. This indicates a market leaning toward mid to high end products.
- ### Customer Engagment: Reviews and Ratings: 
-  - The data set includes 23.8million total reviews, highlighting high customer interaction and engagement.
-  - 308 products received fewer than 1000 reviews, suggesting either lower visibility or newer product listings.
-  - Products with the highest number of reviews average around 3.63million reviews.
-  - Top-rated products (average rating  of 5.0) include: 
-      1. BO9ZKCJDP1
-      2. BOBP7XLX48
-      3. BOBQRJ3B47
-### Top performing products:
- - The top 5 products based on a combination of high ratings and high reviews are;
-   1. BO7KSMBL24,
-   2. BO1418SSDO,
-   3. BO1418SX4Y,
-   4. BO9GQ4K6L,
-   5. BO7GPXXNNG.
-  These products show both strong customer satisfaction and popularity.
-### Correlating Between Discounts and Rating:
-There is a positive trend with an average rating of 4.1 for products offering significant discounts, suggesting that price incentives may positively influence customer satisfaction or perceived value.
-### Rating Overview:
-Products ratings are fairly well distributed across the 1351 products reflecting a wide range  of customers satisfaction levels.
+Over the past two weeks, this project has helped me **build confidence in my ability to ask analytical questions, clean data, identify trends, and derive insights that can support decision-making.**
 
-### Amazon Product Review Analysis data cleaning [ C:\Users\DELL\Documents\INCUBATOR PROJECT ASSIGNMENT.pbix  ]    (download here)
+## 🔍 What This Project Is About
 
+I looked at data from **1,351 Amazon products**. My goal was to understand:
 
+* How much discount people get on products
+* What kind of products are being sold
+* How customers are reacting (through reviews and ratings)
+* Which products are doing the best
+* If giving discounts helps improve customer satisfaction
 
-## CONCLUSION: 
-The data reveals that discount strategies are deeply tied to customer perception and sale potential.
-Top-rated products tend to also recieve high reviews, confirming a strong link between product quality and customer engagement.
-Pricing plays a vital role, particularly for high-value categories like electronics, where strategic discounting can drive both  volume and visibility.
+---
 
+## 📊 What I Found
 
+### 💸 Prices & Discounts
 
+* On average, Amazon gives a **47% discount** on products, that’s almost half off!
+* The **original price** of most products was around ₹5,691, but after discounts, it dropped to ₹3,305.
+* **608 products (about 45%)** had discounts of **50% or more**  a big deal for customers looking for bargains.
+* The **Computers & Accessories** category had the biggest discounts, up to **94% off**. This may be to clear out old stock or attract more buyers.
 
+### 🛍️ Product Types & Prices
 
-# DATA CLEANING PROCESS:
-The cleaning of my Amazon Project Review Analysis started with this breakdown steps,
-Firstly, i study the data file after which i removed all unnecessary data that are not needed on the data file.
-Scondly, i removed all dulicated data on the sheet. 
-I started creating the necessary tables by answering the quesions: table such as 50% or more, Total potential revenue, Price range bucket, Fewer than 1000, %Discount grouping and Top 5 rating.
-With this new created table i was able to solve the questions.
+* Most products were priced **above ₹500**, showing Amazon sells a lot of mid- to high-priced items.
+* Price breakdown:
+
+  * 870 products were **above ₹500**
+  * 342 were **between ₹200–₹500**
+  * 159 were **below ₹200**
+
+### 💬 Customer Reviews & Ratings
+
+* The data included a total of **23.8 million reviews**
+* 308 products had **less than 1,000 reviews**, maybe they’re new or not popular yet.
+* Some products had as many as **3.6 million reviews**!
+* The **top 3 products with perfect 5-star ratings** were:
+
+  1. BO9ZKCJDP1
+  2. BOBP7XLX48
+  3. BOBQRJ3B47
+
+### 🌟 Best-Performing Products
+
+The **top 5 products** with both **high ratings** and **lots of reviews** were:
+
+1. BO7KSMBL24
+2. BO1418SSDO
+3. BO1418SX4Y
+4. BO9GQ4K6L
+5. BO7GPXXNNG
+
+These are clearly customer favorites.
+
+### 🧾 Discounts vs. Ratings
+
+* I found that products with big discounts also had an **average rating of 4.1 stars**.
+* This suggests that **lower prices can make customers happier** (or at least feel like they got a good deal).
+
+---
+
+## 🧼 How I Cleaned the Data
+
+Before analyzing, I had to **clean the data** so it made sense. Here’s what I did:
+
+1. **Looked through the data** to understand what was inside.
+2. **Removed extra or unnecessary info** that wasn’t useful.
+3. **Deleted any repeated (duplicate) data**.
+4. Created new tables to help me answer important questions:
+
+   * Which products had 50%+ discounts?
+   * How much money could be made from all the products?
+   * How are products priced (cheap, mid, expensive)?
+   * Which products had less than 1,000 reviews?
+   * Which products were top-rated?
+
+These steps helped me understand the data and find clear answers.
+
+---
+## 📸 Project Dashboard (Excel)
+
+Screenshots from the dashboard I created in Excel during my analysis.
+
+### 💡 Dashboard Overview
+![Dashboard Overview](https://github.com/beauty248/DSA_AMAZON_ANALYSIS/blob/main/Amazon_Screenshot.png)
+
+---
+
+## ✅ Final Thoughts
+
+* **Discounts really matter** — they attract buyers and often lead to good product ratings.
+* **Popular products** tend to have both **good reviews** and **high star ratings**.
+* **Smart pricing** (especially in electronics) can help boost sales and make products more visible.
+
